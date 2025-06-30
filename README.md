@@ -4,3 +4,8 @@ Esta es una idea de aplicacion para autogestionar tus ingresos y gastos, utilaza
 Pueden agregar los cambios que sea y comentar lo que se ha realizado para que los demas sepamos en que parte del proyecto estamos situados,
 
 soy nuevo en github y no se muy bien como funciona, agradecería ayudas.
+
+
+comando de compilacion pàra .exe:
+
+python -m PyInstaller --onefile --windowed gastos_ingresos.py
