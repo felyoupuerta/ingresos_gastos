@@ -9,3 +9,4 @@ soy nuevo en github y no se muy bien como funciona, agradecería ayudas.
 comando de compilacion pàra .exe:
 
 python -m PyInstaller --onefile --windowed gastos_ingresos.py
+
